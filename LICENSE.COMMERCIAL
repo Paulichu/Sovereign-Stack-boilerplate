@@ -1,0 +1,168 @@
+SOVEREIGN STACK - COMMERCIAL LICENSE
+Version 1.0
+Effective Date: 18 October 2026
+Copyright (c) 2026 Sovereign Stack. All rights reserved.
+
+This document governs the commercial use of the Sovereign Stack software, source code,
+materials, templates, scripts, Terraform files, client assets, and related documentation
+made available in this repository or associated distribution packages.
+
+The public GitHub repository version is provided for demonstration, review, and
+non-production evaluation only. It is not a production-use license and may not be used
+for commercial deployment, resale, SaaS operation, or client distribution without a
+valid paid commercial license from Sovereign Stack.
+
+1. DEFINITIONS
+
+"Bundle" means the combined collection of software, source code, templates, infrastructure
+files, documentation, and assets included in the Sovereign Stack distribution.
+
+"Commercial Use" means any use intended to generate revenue, provide services to clients,
+operate a production SaaS, distribute a product or solution to third parties, embed the
+software in a commercial offering, or otherwise exploit the code for financial gain.
+
+"Licensee" means the person or entity obtaining a commercial license under this document.
+
+2. LICENSE GRANT
+
+Upon payment of the applicable fee and acceptance of these terms, Sovereign Stack grants
+Licensee a non-exclusive, non-transferable commercial license to use the licensed Bundle
+or project scope described in the relevant purchase tier.
+
+Licensee may:
+- use the licensed code for a single commercial project or the full bundle as specified
+  by the purchase tier;
+- modify, rebrand, and adapt the code for Licensee's own commercial product or service;
+- deploy the licensed product under Licensee's brand;
+- resell or redistribute the licensed product or solution as part of a client-delivered
+  commercial service, subject to the purchased rights and these terms.
+
+Licensee may not:
+- resell the unmodified Bundle as a competing boilerplate or template product;
+- distribute the unmodified source code as a public or market-ready starter kit without
+  authorisation;
+- use the repository in a way that violates this Commercial License or any other written
+  agreement with Sovereign Stack;
+- use the repository for unlawful, deceptive, malicious, or abusive purposes.
+
+3. LICENSE TIERS
+
+3.1 SINGLE PROJECT - USD $5,000
+Includes:
+- 1 project from the Bundle (for example, IrisVault OR Kobalt);
+- private GitHub access, if expressly provided under separate arrangement;
+- right to deploy under Licensee's brand;
+- commercial use for one project scope.
+
+Excluded:
+- AWS credentials;
+- K3s cluster access;
+- secrets, keys, or deployment credentials;
+- rights to the entire Bundle or unrelated products.
+
+3.2 BUNDLE - USD $18,000 (Most Popular)
+Includes:
+- all 6 products: ClusterLaunch, Inkanto AI, SIT v2.0, Kobalt, IrisVerify, and IrisVault;
+- full source code;
+- Terraform and infrastructure assets;
+- white-label rights;
+- client portal access, if provided under separate agreement;
+- ability to resell to clients under the purchased rights.
+
+Excluded:
+- AWS access;
+- secrets, keys, or sensitive credentials;
+- domains, deployment access, or operational control for production infrastructure,
+  unless separately agreed in writing.
+
+3.3 FULL IP TRANSFER - USD $75,000 + 10% Royalties
+Includes:
+- everything in the Bundle;
+- full ownership rights for the covered code and project assets;
+- rights to transfer, commercialise, resell, and continue development;
+- AWS access, passwords, K3s cluster control, and deployment assets if expressly included
+  in the purchase agreement;
+- Supabase access, domains, deployment keys, and related operational assets when
+  explicitly transferred in writing.
+
+Terms:
+- Buyer receives full ownership rights for the covered code and assets under the written
+  purchase agreement.
+- A 10% royalty applies to certain commercial usage and transferred IP rights for a period
+  of 24 months or as otherwise agreed in writing.
+
+3.4 QUANTUM VAULT - USD $750,000
+Includes:
+- everything in Full IP Transfer;
+- PQC biometric wallet features;
+- support for one year.
+
+4. OWNERSHIP
+
+All right, title, and interest in the Sovereign Stack software, associated assets, and
+trademarks remain the exclusive property of Sovereign Stack unless ownership is expressly
+transferred in a separate written agreement.
+
+The repository and related materials are provided under license terms only. No ownership,
+exclusive rights, or transfer of title is implied by publication in this repository.
+
+5. REBRANDING AND RESALE
+
+Licensee may rebrand, modify, and deploy the licensed technology as part of its own
+product, platform, or client solution, provided that:
+- the applicable license tier has been purchased;
+- the use remains within the scope of the purchased rights;
+- the source is not redistributed as an unlicensed or unmodified competing boilerplate;
+- no reproductions are published in a way that competes directly with Sovereign Stack
+  without written permission.
+
+6. NO UNMODIFIED BOILERPLATE RESALE
+
+Licensee may not sell, distribute, or offer for download the unmodified Bundle or a near-
+verbatim copy of the Bundle as a competing boilerplate, SaaS starter kit, or template
+product without explicit written permission from Sovereign Stack.
+
+7. SUPPORT AND OPERATIONAL ACCESS
+
+Operational or cloud access (including AWS, K3s, Supabase, deployment credentials, domains,
+keys, and infrastructure control) is not included unless expressly purchased and delivered
+in writing. Such access may require separate deployment and operational agreements.
+
+8. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+SOVEREIGN STACK SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS
+SOFTWARE OR THIS LICENSE.
+
+9. TERMINATION
+
+This license terminates automatically if Licensee violates these terms or fails to comply
+with any payment or usage conditions under the applicable purchase tier. Upon termination,
+Licensee must cease use and destroy all copies of the licensed materials, except as required
+by applicable law.
+
+10. CONTACT
+
+For licensing inquiries, commercial use requests, and purchase discussions:
+
+Email: ip@ojjja.site
+Email: mepaulaj@gmail.com
+
+11. ACCEPTANCE
+
+Use of this software in any commercial context constitutes acceptance of the terms of this
+Commercial License. If Licensee does not agree to these terms, Licensee must not access,
+download, deploy, modify, or use the software for commercial purposes.
+
+12. SEPARATE LEGAL AGREEMENT
+
+This document is a commercial licensing framework and may be supplemented or superseded
+by a separate written agreement negotiated between Sovereign Stack and the Licensee.
+In the event of any conflict, the separate written commercial agreement prevails.
+
+Buyer receives full ownership rights for the covered scope as expressly stated in the
+purchase agreement and applicable license tier.
