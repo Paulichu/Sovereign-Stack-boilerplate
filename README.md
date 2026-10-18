@@ -46,6 +46,7 @@ npm test
 ```text
 .
 ├── LICENSE
+├── LICENSE.COMMERCIAL
 ├── README.md
 ├── package.json
 ├── src/
@@ -57,3 +58,6 @@ npm test
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Commercial licensing notice:
+This public GitHub repository is demo / view-only. Commercial use requires a paid license. See the [LICENSE.COMMERCIAL](LICENSE.COMMERCIAL) file for commercial terms and contact details.
