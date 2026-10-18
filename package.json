@@ -1,0 +1,19 @@
+{
+  "name": "sovereign-stack-boilerplate",
+  "version": "1.0.0",
+  "description": "A clean Node.js boilerplate for the Sovereign Stack project.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "sovereign",
+    "stack",
+    "boilerplate",
+    "node",
+    "starter"
+  ],
+  "license": "MIT"
+}
